@@ -60,13 +60,26 @@ input----->>查找长时记忆 ----->>
 
 ​		
 
-| ----->> | ----->> | ----->>            |
-| ------- | ------- | ------------------ |
-| INPUT   | MEMORY  | ACTION(瞬时memory) |
+| ----->> | ----->> | ----->>                  |
+| ------- | ------- | ------------------------ |
+| INPUT   | MEMORY  | ACTION(瞬时memory)(step) |
+| INPUT   | MEMORY  | ACTION(瞬时memory)(step) |
+| INPUT   | MEMORY  | ACTION(瞬时memory)(step) |
+| INPUT   | MEMORY  | ACTION(瞬时memory)(step) |
 
+| memory |          |
+| ------ | -------- |
+|        | 瞬时记忆 |
+|        | 长时记忆 |
 
+| <<<--- 快乐and难过--->>> | the long river of time |
+| ------------------------ | ---------------------- |
+| ee                       |                        |
+| tong                     |                        |
+| lei                      |                        |
 
-​					
-
-
+| ACTION                   |
+| ------------------------ |
+| 瞬时memory               |
+| 有规律的储存为长时memory |
 
