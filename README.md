@@ -10,7 +10,8 @@ first :
 
 secondly:
 
-	Analysis of attributes
+<<<<<<< HEAD
+​	Analysis of attributes
 
 Third:
 
@@ -43,14 +44,55 @@ input----->>查找长时记忆 ----->>
 									3.lei
 	
 		<<-----------------------------------------
+=======
+​	Analysis of attributes
+
+Third:
+
+​	the long river of time(构造数学函数)
+
+memory
+
+​	：长时 (memory)------>>
+
+​				1.ee
+
+​				2.tong
+
+​				3.lei
+
+​	: 瞬时--------->>
+
+input----->>查找长时记忆 ----->>
+
+​						1.tree
+
+​						2.space
+
+​							------->> 
+
+​									1.ee
+
+​									2.tong
+
+​									3.lei
+
+​		<<-----------------------------------------
+>>>>>>> 77f612d9c23e8a4b167ee7ad5277c5e9260bdec6
 
 快乐
 
 难过
 
-	------------------->>action 
-	
+<<<<<<< HEAD
+​	------------------->>action 
+​	
 					memory
+=======
+​	------------------->>action 
+
+​					memory
+>>>>>>> 77f612d9c23e8a4b167ee7ad5277c5e9260bdec6
 
 
 
