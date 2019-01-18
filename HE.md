@@ -13,9 +13,9 @@
 |   inputMindValue   |  疼痛值               |
 |   changeMindValue   |       变化时          |
 |     energy |        思维活力         |
-|cmv|存到杏仁核|
-|pointer|硬盘指针|
-|reactor|反射反应|
+| cmv  |   存到杏仁核   |
+|  pointer  |  硬盘指针  |
+|   reactor | 反射反应|
 |imvAigsHuangerModel|输入电信号算法饥饿模式|
 |AIVisionAIgsModel|AI视觉算法模型|
 |AICustomAigs|自定义算法模型|
