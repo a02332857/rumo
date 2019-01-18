@@ -5,7 +5,7 @@
 | abs  | 抽象            |
 | ---- | --------------- |
 | algs | 算法            |
-| mv   | mindvalue       |
+| mv   | mindvalue   精神价值    |
 | cmv  | changeMindValue |
 |   ky |       keyValue          |
 |    con  |           具象      |
@@ -16,8 +16,8 @@
 | cmv  |   存到杏仁核   |
 |  pointer  |  硬盘指针  |
 |   reactor | 反射反应|
-|imvAigsHuangerModel|输入电信号算法饥饿模式|
-|AIVisionAIgsModel|AI视觉算法模型|
+|  imvAigsHuangerModel  |  输入电信号算法饥饿模式  |
+|  AIVisionAIgsModel    |  AI视觉算法模型          |
 |AICustomAigs|自定义算法模型|
 |_P|指针|
 |_PS|多个指针|
@@ -36,6 +36,9 @@
 |getAbsUrgentTo|获取抽象急迫度|
 |cmv基本模型|一个foNode总会指向一个cmvNode;而一个cmvNode总是因为foNode才引起的变化;所以这两个互相指向|
 |thinking|思维|
+|联想|思维操作网络的一个非常常见的操作,(读)|
+|微信息|信息的最小单元|
+|抽象|各种节点的抽象|
 
 
 
