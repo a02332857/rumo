@@ -11,3 +11,8 @@ typora-root-url: ./
 
 
 ![2](/PIC/2.png)
+
+| Operational process                               |
+| ------------------------------------------------- |
+| GO --->> stuby  ----->> policy deciSion ---->> GO |
+
